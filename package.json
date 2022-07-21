@@ -1,7 +1,7 @@
 {
-  "name": "seg3125proj2",
+  "name": "seg3125Proj2SecondIteration",
   "version": "0.1.0",
-  "homepage": "https://github.com/K-nCh-n/seg3125Proj2SecondIteration",
+  "homepage": "https://k-nch-n.github.io/seg3125Proj2SecondIteration/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
